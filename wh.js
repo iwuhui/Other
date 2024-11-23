@@ -1,4 +1,4 @@
-const url = 'http://192.168.1.18:8888/cookie/update';
+const url = 'http://43.156.33.107:8888/cookie/update';
 const requestUrl = $request.url;
 console.log('Intercepted URL:', requestUrl);
 const headers = $request.headers;
